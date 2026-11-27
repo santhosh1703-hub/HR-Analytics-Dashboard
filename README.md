@@ -48,4 +48,4 @@ Created an interactive Tableau dashboard to generate workforce and attrition ins
 Tableau | Data Analysis | Data Visualization | Dashboard Development
 
 ## Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.jpeg)
+![HR Analytics Dashboard](HR Analytics Dashboard.jpeg)
